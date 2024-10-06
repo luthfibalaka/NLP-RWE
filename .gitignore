@@ -1,3 +1,4 @@
-cc.id.300.*
-relative_init_vectors.txt
+cc.en.*
+*.txt
 *.model
+bge-base
